@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CSE Student | DSA Enthusiast | Java Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kritika385&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kritika38&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/kritika-33312b278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/kritika_3/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.geeksforgeeks.org/profile/kritika_03"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
@@ -75,7 +75,7 @@ I am a **B.Tech CSE** student at **Giani Zail Singh College of Engineering and T
 
 ## 📌 Featured Projects
 
-### 1. [Resolvify: Unified Service Management & Utility Marketplace](https://github.com/kritika385/Resolvify-A-Unified-Service-Management-Utility-Marketplace)
+### 1. [Resolvify: Unified Service Management & Utility Marketplace](https://github.com/kritika38/Resolvify-A-Unified-Service-Management-Utility-Marketplace)
 > A **high-performance Java middleware ecosystem** that bridges service providers and end-users. Automates service discovery, streamlines administrative workflows, and provides real-time diagnostic capabilities.
 
 **Key Features:**
@@ -90,7 +90,7 @@ I am a **B.Tech CSE** student at **Giani Zail Singh College of Engineering and T
 
 ---
 
-### 2. [Newspaper Management System](https://github.com/kritika385/Newspaper-Management-System)
+### 2. [Newspaper Management System](https://github.com/kritika38/Newspaper-Management-System)
 > A **desktop automation system** for media distribution networks. Digitizes subscriber management, billing, and operational workflows for regional newspaper agencies.
 
 **Key Features:**
@@ -104,7 +104,7 @@ I am a **B.Tech CSE** student at **Giani Zail Singh College of Engineering and T
 
 ---
 
-### 3. [Hand Gesture Volume Control](https://github.com/kritika385/gesture-control)
+### 3. [Hand Gesture Volume Control](https://github.com/kritika38/gesture-control)
 > A **real-time computer vision project** that maps hand gestures to native audio controls using image processing.
 
 **Tech Stack:** `Python` `OpenCV` `MediaPipe` `NumPy`
@@ -130,12 +130,12 @@ I am a **B.Tech CSE** student at **Giani Zail Singh College of Engineering and T
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritika385&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika385&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritika38&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika38&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika385&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika38&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
 </p>
 
 ---
