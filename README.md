@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/kritika-33312b278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/kritika_3/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.geeksforgeeks.org/profile/kritika_03"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-  <a href="https://kritikaportfolio-neon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kritikaportolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:kritika.bti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -145,7 +145,7 @@ I am a **B.Tech CSE** student at **Giani Zail Singh College of Engineering and T
 - 💼 [LinkedIn](https://www.linkedin.com/in/kritika-33312b278/)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/kritika_3/)
 - 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kritika_03)
-- 🌐 [Portfolio](https://kritikaportfolio-neon.vercel.app/)
+- 🌐 [Portfolio](https://kritikaportolio.vercel.app/)
 - 📧 [Email](mailto:kritika.bti@gmail.com)
 
 ---
