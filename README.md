@@ -1,155 +1,208 @@
-<h1 align="center">Hi 👋, I'm Kritika</h1>
-<h3 align="center">A passionate CSE Student | DSA Enthusiast | Java Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kritika38&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/kritika-33312b278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/kritika_3/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/kritika_03"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-  <a href="https://kritikaportolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:kritika.bti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A5C,100:0e75b6&height=220&section=header&text=Hi,%20I'm%20Kritika&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20SDE%20/%20AI-ML&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%2727+%7C+CGPA+8.3;490%2B+DSA+Problems+Solved;Building+SkillForge+%E2%80%94+ML+Career+Platform;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
 
-## 🚀 About Me
+<br/>
 
-I am a **B.Tech CSE** student at **Giani Zail Singh College of Engineering and Technology, Bathinda** with a strong passion for **Data Structures & Algorithms** and **Java Backend Development**. I love building efficient, scalable systems that solve real-world problems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kritikaportolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-33312b278/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kritika_3/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kritika_03)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritika.bti@gmail.com)
 
-- 🔭 I’m currently working on **Resolvify**, a service management utility marketplace.
-- 🌱 I’m currently learning **Applied AI & Agents** (OpenAI Academy) and **Prompt Engineering** (AWS).
-- 👯 I’m looking to collaborate on **Java-based open-source projects**.
-- 💬 Ask me about **Java, DSA, MySQL, or System Design**.
-- 🏆 Selected for the **Infosys Springboard - Path to Pragati** program.
-- ⚡ Fun fact: I have solved **462+ DSA problems** across LeetCode and GeeksforGeeks!
+<img src="https://komarev.com/ghpvc/?username=kritika38&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0e75b6&height=3&width=100%"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## About Me
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+```javascript
+const kritika = {
+    role: "SDE / AI-ML Engineer",
+    education: "B.Tech CSE, 2023 – 2027",
+    cgpa: 8.3,
+    dsaProblemsSolved: "490+",
+    currentlyBuilding: "SkillForge — ML-powered career readiness platform",
+    achievements: [
+        "Selected — Infosys Springboard: Path to Pragati",
+        "Cleared — Adobe Round 1"
+    ],
+    status: "🟢 Open to SDE / AI-ML internships",
+    funFact: "Debugs faster than she explains why the bug happened 😄"
+};
+```
 
-### **Frameworks & Libraries**
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- 🎯 Actively interviewing for **SDE / AI-ML roles**
+- 🔭 Building **SkillForge** — TF-IDF matching → supervised ML → NLP with spaCy
+- 🧠 500+ hours of consistent DSA practice — arrays, graphs, DP, system design fundamentals
+- 🌱 Deepening applied AI/ML and cloud fundamentals
+- 💬 Ask me about Machine Learning, Python, DSA, Java, or MySQL
+
+---
+
+## 🧩 Skill Proficiency
+
+<div align="center">
+
+`Machine Learning`
+![](https://progress-bar.dev/88/?title=&width=500&color=0e75b6)
+
+`Data Structures & Algorithms`
+![](https://progress-bar.dev/92/?title=&width=500&color=0e75b6)
+
+`Python`
+![](https://progress-bar.dev/85/?title=&width=500&color=0e75b6)
+
+`Java`
+![](https://progress-bar.dev/85/?title=&width=500&color=0e75b6)
+
+`SQL / Databases`
+![](https://progress-bar.dev/80/?title=&width=500&color=0e75b6)
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,mysql,sqlite,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
----
-
-## 📊 DSA & Coding Profiles
-
-| Platform | Problems Solved | Badges |
-|----------|----------------|--------|
-| **LeetCode** | 162+ | 🏅 100-Day Streak, 🏅 50-Day Streak |
-| **GeeksforGeeks** | 300+ | 🔥 Ranked Performer |
-| **Total** | **462+** | 🚀 Consistent Problem Solver |
+</div>
 
 ---
 
-## 🏆 LeetCode Badges & Achievements
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/552e8f97-d658-4f3d-8667-c7b880152305" width="200" alt="50-Day Badge" />
-  <img src="https://github.com/user-attachments/assets/0ea300ec-f3d9-4c73-9c2d-aecdb2c9c7af" width="200" alt="100-Day Badge" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <b>🔥 100-Day Streak</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>⚡ 50-Day Streak</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>💪 162+ Problems Solved</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>📚 147 Active Days</b>
-</p>
+### 🧠 [SkillForge](https://github.com/kritika38)
+**ML-Powered Career Readiness Platform**
 
----
+End-to-end platform matching resumes to job roles with personalized learning-path recommendations.
+- Real **TF-IDF + cosine similarity** engine (`scikit-learn`), extended with supervised ML
+- Resume parsing, skill extraction, SQLite persistence, full test suite
+- Multi-page **Streamlit** app with production-grade UI
 
-## 📌 Featured Projects
+`Python` `Streamlit` `scikit-learn` `spaCy` `SQLite`
 
-### 1. [Resolvify: Unified Service Management & Utility Marketplace](https://github.com/kritika38/Resolvify-A-Unified-Service-Management-Utility-Marketplace)
-> A **high-performance Java middleware ecosystem** that bridges service providers and end-users. Automates service discovery, streamlines administrative workflows, and provides real-time diagnostic capabilities.
+</td>
+<td width="50%" valign="top">
 
-**Key Features:**
-- 🔐 **Smart Account Discovery** - authentication with dynamic profile fetching.
-- 💰 **Dynamic Pricing Engine** - Automated tiered billing for domestic/commercial accounts.
-- 📋 **Service Marketplace** - Browse, filter, and book local service providers.
-- 🌐 **Network Diagnostics** - Real-time speed test & automated grievance redressal (JavaMail API).
+### ⚙️ [Resolvify](https://github.com/kritika38/Resolvify-A-Unified-Service-Management-Utility-Marketplace)
+**Service Management & Utility Marketplace**
 
-**Tech Stack:** `Java (J2SE)` `Apache NetBeans` `MySQL` `JavaMail API` `Maven`
+Java middleware connecting service providers with end-users via automated discovery and billing.
+- Dynamic tiered pricing engine (domestic/commercial)
+- Real-time diagnostics + automated grievance redressal (JavaMail API)
+- Full marketplace: search, filter, book
 
-**Future Scope:** Transitioning to a cloud-native microservices web app with UPI/Card payment gateways.
+`Java` `MySQL` `JavaMail API` `Maven`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 2. [Newspaper Management System](https://github.com/kritika38/Newspaper-Management-System)
-> A **desktop automation system** for media distribution networks. Digitizes subscriber management, billing, and operational workflows for regional newspaper agencies.
+### 📰 [Newspaper Management System](https://github.com/kritika38/Newspaper-Management-System)
+**Desktop Automation for Media Distribution**
 
-**Key Features:**
-- 📇 **Subscriber Management** - Create, modify, and track subscriptions with route mapping.
-- 🧾 **Automated Invoicing** - Complex billing algorithms with monthly invoice generation.
-- 📊 **Data Persistence** - Highly normalized MySQL database for transaction histories.
+Digitizes subscriber management and billing for regional newspaper agencies.
+- Automated monthly invoicing with route-mapped tracking
+- Normalized MySQL schema for transaction integrity
 
-**Tech Stack:** `Java (J2SE)` `JavaFX` `Scene Builder` `MySQL`
+`Java` `JavaFX` `MySQL`
 
-**Future Scope:** Microservices-based web application with SMS/WhatsApp notification gateways.
+</td>
+<td width="50%" valign="top">
 
----
+### ✋ [Hand Gesture Volume Control](https://github.com/kritika38/gesture-control)
+**Real-Time Computer Vision**
 
-### 3. [Hand Gesture Volume Control](https://github.com/kritika38/gesture-control)
-> A **real-time computer vision project** that maps hand gestures to native audio controls using image processing.
+Maps hand gestures to native audio controls using live webcam input.
+- Low-latency recognition via MediaPipe landmark detection
 
-**Tech Stack:** `Python` `OpenCV` `MediaPipe` `NumPy`
+`Python` `OpenCV` `MediaPipe`
 
-**Key Achievement:** Achieved low-latency gesture recognition with webcam-based coordinate mapping.
-
----
-
-## 🏅 Certifications & Achievements
-
-- ✅ **Applied AI & Agents** - OpenAI Academy (June 2026)
-- ✅ **Applied AI Foundations** - OpenAI Academy (June 2026)
-- ✅ **AI Foundations** - OpenAI Academy (June 2026)
-- ✅ **Foundation of Prompt Engineering** - AWS (2026)
-- ✅ **Core & Advanced Java** - Bangalore Computer Education (2023)
-- ✅ **Programming Track: C, C++ & DSA** - Intensive Training (2023)
-- 🏆 **Infosys Springboard - Path to Pragati** (Selected)
-- 🎯 **Myntra HackerRamp Participant**
-- 🏅 **LeetCode 100-Day Streak** & **50-Day Streak**
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats & Activity
+## DSA Track Record
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritika38&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika38&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika38&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
-</p>
+| Platform | Problems Solved | Highlights |
+|---|---|---|
+| **LeetCode** | 190+ | 100-Day Streak, 50-Day Streak |
+| **GeeksforGeeks** | 300+ | Ranked Performer |
+| **Total** | **490+** | Consistent daily practice |
 
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kritika-33312b278/)
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/kritika_3/)
-- 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kritika_03)
-- 🌐 [Portfolio](https://kritikaportolio.vercel.app/)
-- 📧 [Email](mailto:kritika.bti@gmail.com)
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Keep+Coding!;Keep+Learning!;Let's+Connect!" alt="Typing SVG" />
-</p>
+## Certifications
+
+- **Infosys Springboard — Path to Pragati** *(Selected)*
+- **Applied AI & Agents**, **Applied AI Foundations**, **AI Foundations** — OpenAI Academy
+- **Foundation of Prompt Engineering** — AWS
+- **Core & Advanced Java** — Bangalore Computer Education
+- **C, C++ & DSA — Intensive Programming Track**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kritika38/kritika38/output/snake.svg" alt="Contribution Snake" width="90%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kritika38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika38&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="40%" />
+<img src="https://github-profile-trophy.vercel.app/?username=kritika38&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies" width="55%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritika38&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff" width="90%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=3&width=100%"/>
+
+<div align="center">
+
+### 💼 Open to SDE, AI-ML Internship/Full-Time Roles
+
+<img src="https://readme-quote-svg.vercel.app/api?type=horizontal&theme=tokyonight" width="60%" alt="Dev Quote"/>
+
+📧 [kritika.bti@gmail.com](mailto:kritika.bti@gmail.com) &nbsp;·&nbsp; 🌐 [Portfolio](https://kritikaportolio.vercel.app/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kritika-33312b278/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A5C,100:0e75b6&height=100&section=footer" width="100%"/>
+
+</div>
