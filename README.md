@@ -34,7 +34,7 @@ const kritika = {
         "Cleared — Adobe Round 1"
     ],
     status: "🟢 Open to SDE / AI-ML internships",
-    funFact: "Debugs faster than she explains why the bug happened 😄"
+    funFact: "Debugs faster than explains why the bug happened 😄"
 };
 ```
 
