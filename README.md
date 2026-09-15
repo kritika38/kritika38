@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A5C,100:0e75b6&height=220&section=header&text=Hi,%20I'm%20Kritika&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20SDE%20/%20AI-ML&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%2727+%7C+CGPA+8.3;490%2B+DSA+Problems+Solved;Building+SkillForge+%E2%80%94+ML+Career+Platform;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%2727+%7C+CGPA+8.3;507%2B+DSA+Problems+Solved;Building+SkillForge+%E2%80%94+ML+Career+Platform;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@ const kritika = {
     role: "SDE / AI-ML Engineer",
     education: "B.Tech CSE, 2023 – 2027",
     cgpa: 8.3,
-    dsaProblemsSolved: "490+",
+    dsaProblemsSolved: "507+",
     currentlyBuilding: "SkillForge — ML-powered career readiness platform",
     achievements: [
         "Selected — Infosys Springboard: Path to Pragati",
