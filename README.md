@@ -172,6 +172,7 @@ Maps hand gestures to native audio controls using live webcam input.
 - **C, C++ & DSA — Intensive Programming Track**
 
 ---
+<img width="1738" height="593" alt="image" src="https://github.com/user-attachments/assets/af271f0c-a8b5-48e8-bb16-3474d4732b97" />
 
 ## 📊 GitHub Activity
 
