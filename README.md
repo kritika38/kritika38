@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0B1E3D,60:0E4C8A,100:0e75b6&height=260&section=header&text=KRITIKA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20SDE%20%2F%20AI-ML&descAlignY=58&descSize=20&descColor=8AB4F8" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0E75B6&center=true&vCenter=true&width=680&lines=Turning+coffee+%2B+DSA+into+shipped+software;490%2B+problems+solved+%C2%B7+100-day+streak;Building+SkillForge+%E2%80%94+an+ML+career+platform;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0E75B6&center=true&vCenter=true&width=680&lines=Turning+coffee+%2B+DSA+into+shipped+software;508%2B+problems+solved+%C2%B7+100-day+streak;Building+SkillForge+%E2%80%94+an+ML+career+platform;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@ const kritika = {
     role: "SDE / AI-ML Engineer",
     education: "B.Tech CSE, 2023 – 2027",
     cgpa: 8.3,
-    dsaProblemsSolved: "507+",
+    dsaProblemsSolved: "508+",
     currentlyBuilding: "SkillForge — ML-powered career readiness platform",
     achievements: [
         "Selected — Infosys Springboard: Path to Pragati",
@@ -155,9 +155,9 @@ Maps hand gestures to native audio controls using live webcam input.
 
 | Platform | Problems Solved | Highlights |
 |---|---|---|
-| **LeetCode** | 190+ | 100-Day Streak, 50-Day Streak |
-| **GeeksforGeeks** | 300+ | Ranked Performer |
-| **Total** | **490+** | Consistent daily practice |
+| **LeetCode** | 183+ | 100-Day Streak, 50-Day Streak |
+| **GeeksforGeeks** | 325+ | Ranked Performer |
+| **Total** | **508+** | Consistent daily practice |
 
 </div>
 
