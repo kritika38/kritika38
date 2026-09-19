@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A5C,100:0e75b6&height=220&section=header&text=Hi,%20I'm%20Kritika&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20SDE%20/%20AI-ML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0B1E3D,60:0E4C8A,100:0e75b6&height=260&section=header&text=KRITIKA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20SDE%20%2F%20AI-ML&descAlignY=58&descSize=20&descColor=8AB4F8" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%2727+%7C+CGPA+8.3;507%2B+DSA+Problems+Solved;Building+SkillForge+%E2%80%94+ML+Career+Platform;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0E75B6&center=true&vCenter=true&width=680&lines=Turning+coffee+%2B+DSA+into+shipped+software;490%2B+problems+solved+%C2%B7+100-day+streak;Building+SkillForge+%E2%80%94+an+ML+career+platform;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing SVG" />
 
 <br/>
 
@@ -172,8 +172,6 @@ Maps hand gestures to native audio controls using live webcam input.
 - **C, C++ & DSA — Intensive Programming Track**
 
 ---
-<!-- <img width="1738" height="593" alt="image" src="https://github.com/user-attachments/assets/af271f0c-a8b5-48e8-bb16-3474d4732b97" /> -->
-<img width="1775" height="601" alt="image" src="https://github.com/user-attachments/assets/f4ba886c-0310-49f4-871c-a389f877250a" />
 
 ## 📊 GitHub Activity
 
