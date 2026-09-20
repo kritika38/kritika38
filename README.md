@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-33312b278/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kritika_3/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kritika_03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritika.bti@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kritika.bti@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=kritika38&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
@@ -94,7 +94,7 @@ const kritika = {
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/71d01372-48aa-4d0d-997c-fbe4d91c313a" width="100%" alt="SkillForge preview"/>
+<img src="https://github.com/user-attachments/assets/71d01372-48aa-4d0d-997c-fbe4d91c313a" width="600" height="400" style="max-width:100%; object-fit:cover; border-radius:8px;" alt="SkillForge preview"/>
 
 ### 🧠 [SkillForge](https://github.com/kritika38/SkillForge)
 **ML-Powered Career Readiness Platform**
@@ -108,7 +108,7 @@ End-to-end platform matching resumes to job roles with personalized learning-pat
 
 </td>
 <td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/47048183-fc55-4b85-8280-dbc89d5b9052" width="100%" alt="Resolvify preview"/>
+<img src="https://github.com/user-attachments/assets/47048183-fc55-4b85-8280-dbc89d5b9052" width="600" height="400" style="max-width:100%; object-fit:cover; border-radius:8px;" alt="Resolvify preview"/>
 
 ### ⚙️ [Resolvify](https://github.com/kritika38/Resolvify-A-Unified-Service-Management-Utility-Marketplace)
 **Service Management & Utility Marketplace**
@@ -124,7 +124,7 @@ Java middleware connecting service providers with end-users via automated discov
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/d61b7677-f253-4aa9-9985-f1bb955860e1" width="100%" alt="Newspaper Management System preview"/>
+<img src="https://github.com/user-attachments/assets/d61b7677-f253-4aa9-9985-f1bb955860e1" width="600" height="400" style="max-width:100%; object-fit:cover; border-radius:8px;" alt="Newspaper Management System preview"/>
 
 ### 📰 [Newspaper Management System](https://github.com/kritika38/Newspaper-Management-System)
 **Desktop Automation for Media Distribution**
@@ -137,7 +137,7 @@ Digitizes subscriber management and billing for regional newspaper agencies.
 
 </td>
 <td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/f9323f45-5d7c-4c73-b4ad-f8cde8a0e820" width="100%" alt="Hand Gesture Volume Control preview"/>
+<img src="https://github.com/user-attachments/assets/f9323f45-5d7c-4c73-b4ad-f8cde8a0e820" width="600" height="400" style="max-width:100%; object-fit:cover; border-radius:8px;" alt="Hand Gesture Volume Control preview"/>
 
 ### ✋ [Hand Gesture Volume Control](https://github.com/kritika38/gesture-control)
 **Real-Time Computer Vision**
@@ -183,15 +183,24 @@ Maps hand gestures to native audio controls using live webcam input.
 <img src="https://raw.githubusercontent.com/kritika38/kritika38/output/snake.svg" alt="Contribution Snake" width="90%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kritika38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika38&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="40%" />
-<img src="https://github-profile-trophy.vercel.app/?username=kritika38&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies" width="55%"/>
-</div>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=kritika38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika38&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="100%" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=kritika38&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" alt="Trophies" width="100%"/>
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritika38&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff" width="90%"/>
@@ -203,9 +212,7 @@ Maps hand gestures to native audio controls using live webcam input.
 
 ### 💼 Open to SDE, AI-ML Internship/Full-Time Roles
 
-<img src="https://readme-quote-svg.vercel.app/api?type=horizontal&theme=tokyonight" width="60%" alt="Dev Quote"/>
-
-📧 [kritika.bti@gmail.com](mailto:kritika.bti@gmail.com) &nbsp;·&nbsp; 🌐 [Portfolio](https://kritikaportolio.vercel.app/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kritika-33312b278/)
+📧 [kritika.bti@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kritika.bti@gmail.com) &nbsp;·&nbsp; 🌐 [Portfolio](https://kritikaportolio.vercel.app/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kritika-33312b278/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A5C,100:0e75b6&height=100&section=footer" width="100%"/>
 
