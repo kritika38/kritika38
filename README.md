@@ -177,9 +177,8 @@ Maps hand gestures to native audio controls using live webcam input.
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/kritika38/kritika38/output/snake.svg" alt="Contribution Snake" width="90%"/>
 </div>
 
@@ -188,23 +187,25 @@ Maps hand gestures to native audio controls using live webcam input.
 <td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=kritika38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
 </td>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika38&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="100%" />
+<td align="center" width="50%"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika38&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="100%" />
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="100%" />
+<td align="center" width="50%"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="100%" />
 </td>
-<td align="center" width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=kritika38&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" alt="Trophies" width="100%"/>
+<td align="center" width="50%"> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=kritika38&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" alt="Trophies" width="100%"/> -->
+<img width="1748" height="603" alt="image" src="https://github.com/user-attachments/assets/87132330-3204-4d81-b04a-e96a348c1229" />
+
 </td>
 </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritika38&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff" width="90%"/>
-</div>
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=3&width=100%"/>
 
