@@ -94,8 +94,9 @@ const kritika = {
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/71d01372-48aa-4d0d-997c-fbe4d91c313a" width="100%" alt="SkillForge preview"/>
 
-### 🧠 [SkillForge](https://github.com/kritika38)
+### 🧠 [SkillForge](https://github.com/kritika38/SkillForge)
 **ML-Powered Career Readiness Platform**
 
 End-to-end platform matching resumes to job roles with personalized learning-path recommendations.
@@ -107,6 +108,7 @@ End-to-end platform matching resumes to job roles with personalized learning-pat
 
 </td>
 <td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/47048183-fc55-4b85-8280-dbc89d5b9052" width="100%" alt="Resolvify preview"/>
 
 ### ⚙️ [Resolvify](https://github.com/kritika38/Resolvify-A-Unified-Service-Management-Utility-Marketplace)
 **Service Management & Utility Marketplace**
@@ -122,6 +124,7 @@ Java middleware connecting service providers with end-users via automated discov
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/d61b7677-f253-4aa9-9985-f1bb955860e1" width="100%" alt="Newspaper Management System preview"/>
 
 ### 📰 [Newspaper Management System](https://github.com/kritika38/Newspaper-Management-System)
 **Desktop Automation for Media Distribution**
@@ -134,6 +137,7 @@ Digitizes subscriber management and billing for regional newspaper agencies.
 
 </td>
 <td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/f9323f45-5d7c-4c73-b4ad-f8cde8a0e820" width="100%" alt="Hand Gesture Volume Control preview"/>
 
 ### ✋ [Hand Gesture Volume Control](https://github.com/kritika38/gesture-control)
 **Real-Time Computer Vision**
